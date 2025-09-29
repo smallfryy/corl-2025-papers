@@ -1,5 +1,5 @@
 # CoRL 2025 Papers
-200+ papers with TLDRs, project pages, code, etc
+List of 200+ papers (orals & posters) with TLDRs, project pages, code, etc
 
 ## Orals
 
