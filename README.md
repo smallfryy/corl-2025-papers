@@ -1,5 +1,5 @@
 # CoRL 2025 Papers
-List of 200+ [CoRL](https://www.corl.org/) papers (orals & posters) with TLDRs, project pages, code, etc
+A list of 200+ [CoRL](https://www.corl.org/) papers (orals & posters) with TLDRs, project pages, code, etc
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ECLXoUBNvovVJlOH8A35HG-fKzB_b2OycA&s" alt="CORL Logo">
 
@@ -1560,6 +1560,206 @@ List of 200+ [CoRL](https://www.corl.org/) papers (orals & posters) with TLDRs, 
     <td>Infers task-relevant frames from a single demo to enable one-shot skill generalization.</td>
     <td>N/A</td>
     <td><a href="https://arxiv.org/abs/2509.00310">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>151</td>
+    <td>UniTac2Pose: A Unified Approach Learned in Simulation for Category-level Visuotactile In-hand Pose Estimation</td>
+    <td>Unifies visual+tactile cues in sim to estimate in-hand pose at the category level.</td>
+    <td>N/A</td>
+    <td><a href="https://www.arxiv.org/abs/2509.15934">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>152</td>
+    <td>Bipedal Balance Control with Whole-body Musculoskeletal Standing and Falling Simulations</td>
+    <td>Uses musculoskeletal simulations of standing/falling to learn robust biped balance control.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.09383">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>153</td>
+    <td>Do LLM Modules Generalize? A Study on Motion Generation for Autonomous Driving</td>
+    <td>Evaluates whether LLM-based modules generalize to unseen driving motion generation tasks.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.02754">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>154</td>
+    <td>AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation</td>
+    <td>Interactive platform for constructing scenes and training mobile manipulation policies.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.07770">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>155</td>
+    <td>FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset</td>
+    <td>Hardware-agnostic manipulation interface with a large supporting dataset for scaling.</td>
+    <td><a href="https://fastumi.com/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2409.19499">link</a></td>
+    <td><a href="https://github.com/zxzm-zak/FastUMI_Data">link</a></td>
+  </tr>
+  <tr>
+    <td>156</td>
+    <td>Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling</td>
+    <td>Applies conformal uncertainty methods to ensure safety during crowd navigation.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.05634">link</a></td>
+    <td><a href="https://github.com/tasl-lab/GenSafeNav">link</a></td>
+  </tr>
+  <tr>
+    <td>157</td>
+    <td>Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation</td>
+    <td>Uses VLMs with reflection to plan multi-stage long-horizon manipulation sequences.</td>
+    <<td><a href="https://reflect-vlm.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2502.16707">link</a></td>
+    <<td><a href="https://github.com/yunhaif/reflect-vlm">link</a></td>
+  </tr>
+  <tr>
+    <td>158</td>
+    <td>Unsupervised Skill Discovery as Exploration for Learning Agile Locomotion</td>
+    <td>Discovers diverse skills for locomotion, turning exploration into agile behaviors.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.08982">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>159</td>
+    <td>HyperTASR: Hypernetwork-Driven Task-Aware Scene Representations for Robust Manipulation</td>
+    <td>Hypernetworks generate task-aware scene embeddings to improve manipulation robustness.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.18802">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>160</td>
+    <td>GENNAV: Polygon Mask Generation for Generalized Referring Navigable Regions</td>
+    <td>Generates polygon masks for referred navigable regions to guide embodied navigation.</td>
+    <td><a href="https://gennav.vercel.app/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2508.21102">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>161</td>
+    <td>PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation</td>
+    <td>Learns dense correspondences progressively to estimate 6D poses of novel objects.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2504.02617">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>162</td>
+    <td>CHD: Coupled Hierarchical Diffusion for Long-Horizon Tasks</td>
+    <td>Couples hierarchical policies with diffusion for scalable long-horizon task planning.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.07261">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>163</td>
+    <td>BEVCalib: LiDAR-Camera Calibration via Geometry-Guided Bird’s-Eye View Representation</td>
+    <td>Performs LiDAR–camera calibration using geometry cues in BEV space without markers.</td>
+    <td><a href="https://cisl.ucr.edu/BEVCalib/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2506.02587">link</a></td>
+    <td><a href="https://github.com/UCR-CISL/BEVCalib/tree/main">link</a></td>
+  </tr>
+  <tr>
+    <td>164</td>
+    <td>Latent Adaptive Planner for Dynamic Manipulation</td>
+    <td>Plans dynamic manipulations by adapting in a learned latent space of strategies.</td>
+    <td>N/A</td>
+    <td><a href="https://www.arxiv.org/abs/2505.03077">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>165</td>
+    <td>SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL</td>
+    <td>Pretrains a latent action space in sim to accelerate whole-body RL on hardware.</td>
+    <td><a href="https://robo-rl.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2506.04147">link</a></td>
+    <td><a href="https://github.com/JiahengHu/SLAC">link</a></td>
+  </tr>
+  <tr>
+    <td>166</td>
+    <td>Neural Robot Dynamics</td>
+    <td>Learns differentiable robot dynamics models that capture complex contact effects.</td>
+    <td><a href="https://neural-robot-dynamics.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2508.15755">link</a></td>
+    <td><a href="https://github.com/NVlabs/neural-robot-dynamics">link</a></td>
+  </tr>
+  <tr>
+    <td>167</td>
+    <td>GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation</td>
+    <td>Turns instructions into graph constraints to enable training-free VLN execution.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.10454">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>168</td>
+    <td>Constrained Style Learning from Imperfect Demonstrations under Task Optimality</td>
+    <td>Extracts task-consistent style from noisy demos while enforcing optimality constraints.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2507.09371">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>169</td>
+    <td>TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types</td>
+    <td>Teleop framework decomposed by manipulation “types” to increase dexterous capability.</td>
+    <td><a href="https://isee-laboratory.github.io/TypeTele/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2507.01857">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>170</td>
+    <td>VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tuning</td>
+    <td>Combines vision+tactile feedback with sim-finetuning for precise bimanual assembly.</td>
+    <td>N/A</td>
+    <td><a href="">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>171</td>
+    <td>Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning</td>
+    <td>Adapts 3D scene representations to new domains to improve imitation policy transfer.</td>
+    <td>N/A</td>
+    <td><a href="https://openreview.net/forum?id=mV3W5givYb">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>172</td>
+    <td>FOMO-3D: Using Vision Foundation Models for Long-Tailed 3D Object Detection</td>
+    <td>Leverages VFM priors to handle long-tailed distributions in 3D detection tasks.</td>
+    <td>N/A</td>
+    <td><a href="https://openreview.net/pdf/90ae722f9c63423d5379d06de77659df3e262f46.pdf">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>173</td>
+    <td>Extracting Visual Plans from Unlabeled Videos via Symbolic Guidance</td>
+    <td>Induces symbolic plans from unlabeled videos and converts them to robot-executable steps.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.08444">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>174</td>
+    <td>Self-supervised perception for tactile skin covered dexterous hands</td>
+    <td>Self-supervised learning for perception on dexterous hands covered with tactile skin.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.11420">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>175</td>
+    <td>Predictive Red Teaming: Breaking Policies Without Breaking Robots</td>
+    <td>“Red teams” robot policies in simulation to expose failures before real-world deployment.</td>
+    <td><a href="https://predictive-red-team.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2502.06575">link</a></td>
     <td>N/A</td>
   </tr>
 </table>
