@@ -1,5 +1,7 @@
 # CoRL 2025 Papers
-List of 200+ papers (orals & posters) with TLDRs, project pages, code, etc
+List of 200+ [CoRL](https://www.corl.org/) papers (orals & posters) with TLDRs, project pages, code, etc
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ECLXoUBNvovVJlOH8A35HG-fKzB_b2OycA&s" alt="CORL Logo">
 
 ## Orals
 
@@ -492,9 +494,9 @@ List of 200+ papers (orals & posters) with TLDRs, project pages, code, etc
     <td>17</td>
     <td>LodeStar: Long-horizon Dexterity via Synthetic Data Augmentation from Human Demonstrations</td>
     <td>Enhances dexterity with synthetic data augmentation from human demonstrations.</td>
-    <td><a href="https://lodestar-project.github.io/">link</a></td>
+    <td><a href="https://lodestar-robot.github.io/">link</a></td>
     <td><a href="https://arxiv.org/abs/2508.17547">link</a></td>
-    <td><a href="https://github.com/lodestar-project/lodestar">link</a></td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>18</td>
