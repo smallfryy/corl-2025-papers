@@ -9,7 +9,7 @@ Collection of CoRL 2025 papers, summaries, code, etc
     <th>Paper Title</th>
     <th>TLDR</th>
     <th>Project Page</th>
-    <th>ArXiv</th>
+    <th>Paper</th>
     <th>Code</th>
   </tr>
   <tr>
@@ -216,17 +216,17 @@ Collection of CoRL 2025 papers, summaries, code, etc
     <td>26</td>
     <td>Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning</td>
     <td>Combines planning and learning for generalizable dual-arm multi-part assembly.</td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
     <td><a href="https://arxiv.org/abs/2506.05168">link</a></td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>27</td>
     <td>Streaming Flow Policy: Simplifying diffusion/flow-matching policies by treating action trajectories as flow trajectories</td>
     <td>Simplifies diffusion policies by reformulating action trajectories as flow trajectories.</td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
     <td><a href="https://arxiv.org/abs/2505.21851">link</a></td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>28</td>
@@ -242,7 +242,7 @@ Collection of CoRL 2025 papers, summaries, code, etc
     <td>Scales robotic imitation learning using low-cost wearable exoskeleton data collection.</td>
     <td><a href="https://airexo.tech/airexo2/">link</a></td>
     <td><a href="https://arxiv.org/pdf/2503.03081">link</a></td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>30</td>
@@ -250,13 +250,13 @@ Collection of CoRL 2025 papers, summaries, code, etc
     <td>Zero-shot sim-to-real transfer for object fetching in cluttered environments.</td>
     <td><a href="https://pku-epic.github.io/FetchBot/">link</a></td>
     <td><a href="https://arxiv.org/abs/2502.17894">link</a></td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>31</td>
     <td>One View, Many Worlds: Single-Image to 3D Object Meets Generative Domain Randomization for One-Shot 6D Pose Estimation</td>
     <td>One-shot 6D pose estimation using single-image 3D object generation with domain randomization.</td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
     <td><a href="https://arxiv.org/abs/2509.07978">link</a></td>
     <td><a href="https://github.com/GZWSAMA/OnePoseviaGen">link</a></td>
   </tr>
@@ -264,15 +264,15 @@ Collection of CoRL 2025 papers, summaries, code, etc
     <td>32</td>
     <td>KineSoft: Learning Proprioceptive Manipulation Policies with Soft Robot Hands</td>
     <td>Trains manipulation policies for soft robot hands using proprioceptive sensing.</td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
     <td><a href="https://arxiv.org/abs/2503.01078">link</a></td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>33</td>
     <td>Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware</td>
     <td>Data scaling pipeline using rendering to bypass robot hardware and dynamics simulation.</td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
     <td><a href="https://arxiv.org/abs/2505.09601">link</a></td>
     <td><a href="https://github.com/BerkeleyAutomation/Real2Render2Real">link</a></td>
   </tr>
@@ -280,15 +280,15 @@ Collection of CoRL 2025 papers, summaries, code, etc
     <td>34</td>
     <td>FACET: Force-Adaptive Control via Impedance Reference Tracking for Legged Robots</td>
     <td>Force-adaptive impedance tracking improves control of legged robots.</td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
     <td><a href="https://arxiv.org/abs/2505.06883">link</a></td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>35</td>
     <td>DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation</td>
     <td>Leverages the human hand as a universal interface for dexterous robotic manipulation.</td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
     <td><a href="https://arxiv.org/abs/2505.21864">link</a></td>
     <td><a href="https://github.com/columbia-ai-robotics/dexumi">link</a></td>
   </tr>
@@ -298,39 +298,39 @@ Collection of CoRL 2025 papers, summaries, code, etc
     <td>Integrates audio with vision for multimodal sim-to-real robot policies.</td>
     <td><a href="https://renhao-wang.github.io/sound-of-sim/">link</a></td>
     <td><a href="https://arxiv.org/abs/2507.02864">link</a></td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>37</td>
     <td>ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations</td>
     <td>Uses language-guided rewards to improve robot policies without requiring new demos.</td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
     <td><a href="https://arxiv.org/abs/2505.10911">link</a></td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>38</td>
     <td>Learning a Unified Policy for Position and Force Control in Legged Loco-Manipulation</td>
     <td>Unified policy framework for position and force control in legged loco-manipulation.</td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
     <td><a href="https://arxiv.org/abs/2505.20829">link</a></td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>39</td>
     <td>Omni-Perception: Omnidirectional Collision Avoidance of Legged Robots in Dynamic Environments</td>
     <td>Omnidirectional perception enables collision avoidance for legged robots in dynamic settings.</td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
     <td><a href="https://arxiv.org/abs/2505.19214">link</a></td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>40</td>
     <td>Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning</td>
     <td>Prevents OOD failures in real-time with multi-modal reasoning.</td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
     <td><a href="https://arxiv.org/abs/2505.10547">link</a></td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>41</td>
@@ -344,8 +344,821 @@ Collection of CoRL 2025 papers, summaries, code, etc
     <td>42</td>
     <td>ImMimic: Cross-Domain Imitation from Human Videos via Mapping and Interpolation</td>
     <td>Cross-domain imitation by mapping and interpolating human videos for robot learning.</td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
     <td><a href="https://arxiv.org/abs/2509.10952">link</a></td>
-    <td><a href="">link</a></td>
+    <td>N/A</td>
   </tr>
+</table>
+
+## Posters
+<table>
+  <tr>
+    <th>#</th>
+    <th>Paper Title</th>
+    <th>TLDR</th>
+    <th>Project Page</th>
+    <th>Paper</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks</td>
+    <td>Robust whole-body humanoid teleoperation using mixture-of-experts control and LiDAR correction.</td>
+    <td><a href="https://humanoid-clone.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2506.08931">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Disentangled Multi-Context Meta-Learning: Unlocking Robust and Generalized Task Learning</td>
+    <td>Disentangles task factors for robust meta-learning and sim-to-real transfer.</td>
+    <td>N/A</td>
+    <td><a href="https://www.arxiv.org/abs/2509.01297">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Meta-Optimization and Program Search using Language Models for Task and Motion Planning</td>
+    <td>Uses LLMs for meta-optimization and program search in task and motion planning.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.03725">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Text2Touch: Tactile In-Hand Manipulation with LLM-Designed Reward Functions</td>
+    <td>Leverages LLM-designed reward functions for tactile in-hand robot manipulation.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/html/2509.07445v1">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Multi-Loco: Unifying Multi-Embodiment Legged Locomotion via Reinforcement Learning Augmented Diffusion</td>
+    <td>Unifies locomotion control across embodiments with RL-augmented diffusion models.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.11470">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>SimShear: Sim-to-Real Shear-based Tactile Servoing</td>
+    <td>Uses shear-based tactile feedback for sim-to-real transfer in tactile servoing.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.20561">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Focusing on What Matters: Object-Agent-centric Tokenization for Vision Language Action models</td>
+    <td>Introduces object-agent-centric tokenization to improve VLA model reasoning.</td>
+    <td>N/A</td>
+    <td><a href="https://openreview.net/attachment?id=Ict1OjU9gl&name=pdf">OpenReview</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>AT-Drone: Benchmarking Adaptive Teaming in Multi-Drone Pursuit</td>
+    <td>Benchmark for evaluating adaptive teaming strategies in multi-drone pursuit tasks.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2502.09762">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Uncertainty-Aware Scene Understanding via Efficient Sampling-Free Confidence Estimation</td>
+    <td>Confidence estimation for scene understanding without expensive sampling.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/html/2411.11935v2">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>ObjectReact: Learning Object-Relative Control for Visual Navigation</td>
+    <td>Learns object-relative navigation control for robust visual navigation.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.09594">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Decentralized Aerial Manipulation of a Cable-Suspended Load Using Multi-Agent Reinforcement Learning</td>
+    <td>Decentralized multi-agent RL for aerial manipulation of suspended loads.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.01522">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving</td>
+    <td>Integrates scene prediction and decision reasoning for end-to-end autonomous driving.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.20024">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>Embrace Contacts: humanoid shadowing with full body ground contacts</td>
+    <td>Enables humanoid shadowing with consistent full-body ground contacts.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2502.01465">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>Distilling for Long-Horizon Prehensile and Non-Prehensile Manipulation</td>
+    <td>Distills policies to handle long-horizon prehensile and non-prehensile tasks.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2502.18015">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>Constraint-Aware Diffusion Guidance for Robotics: Real-Time Obstacle Avoidance for Autonomous Racing</td>
+    <td>Uses diffusion guidance for real-time obstacle avoidance in racing scenarios.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.13131">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>Learning Impact-Rich Rotational Maneuvers via Centroidal Velocity Rewards and Sim-to-Real Techniques: A One-Leg Hopper Flip Case Study</td>
+    <td>Trains one-leg hopper to flip using impact-rich rewards and sim-to-real techniques.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.12222">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>LodeStar: Long-horizon Dexterity via Synthetic Data Augmentation from Human Demonstrations</td>
+    <td>Enhances dexterity with synthetic data augmentation from human demonstrations.</td>
+    <td><a href="https://lodestar-project.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2508.17547">link</a></td>
+    <td><a href="https://github.com/lodestar-project/lodestar">link</a></td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>Imitation Learning Based on Disentangled Representation Learning of Behavioral Characteristics</td>
+    <td>Applies disentangled representation learning for imitation learning of behaviors.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.04737">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>Motion Priors Reimagined: Adapting Flat-Terrain Skills for Complex Quadruped Mobility</td>
+    <td>Adapts flat-terrain locomotion skills to complex terrains using motion priors.</td>
+    <td><a href="https://motion-priors.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2505.16084">link</a></td>
+    <td><a href="https://github.com/leggedrobotics/motionpriors">link</a></td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Sequence Modeling for Time-Optimal Quadrotor Trajectory Optimization with Sampling-based Robustness Analysis</td>
+    <td>Applies sequence modeling for fast and robust quadrotor trajectory optimization.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.13915">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>HALO: Human Preference Aligned Offline Reward Learning for Robot Navigation</td>
+    <td>Aligns offline reward learning with human preferences for navigation tasks.</td>
+    <td>N/A</td>
+    <td><a href="https://www.arxiv.org/abs/2508.01539">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models</td>
+    <td>Scales up verification and sampling for VLA models during test-time.</td>
+    <td><a href="https://robomonkey-vla.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2506.17811">link</a></td>
+    <td><a href="https://github.com/robomonkey-vla/RoboMonkey">link</a></td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>Constraint-Preserving Data Generation for One-Shot Visuomotor Policy Generalization</td>
+    <td>Generates constraint-preserving data to improve one-shot visuomotor generalization.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.03944">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching</td>
+    <td>Trains humanoid robots for navigation and reaching in delivery scenarios.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.03068">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>FLARE: Robot Learning with Implicit World Modeling</td>
+    <td>Implicit world modeling for more efficient and robust robot learning.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.15659">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>From Real World to Logic and Back: Learning Generalizable Relational Concepts For Long Horizon Robot Planning</td>
+    <td>Learns relational concepts that bridge real-world experience with symbolic planning for long-horizon tasks.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2402.11871">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>NeuralSVCD for Efficient Swept Volume Collision Detection</td>
+    <td>Neural approach to fast swept-volume–based collision detection for motion planning.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.00499">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>MEReQ: Max-Ent Residual-Q Inverse RL for Sample-Efficient Alignment from Intervention</td>
+    <td>Inverse RL method that aligns policies from sparse interventions via max-entropy residual Q-learning.</td>
+    <td><a href="https://thomaschen98.github.io/mereq.github.io/">Link</a></td>
+    <td><a href="https://arxiv.org/abs/2406.16258">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>Joint Model-based Model-free Diffusion for Planning with Constraints</td>
+    <td>Combines model-based and model-free diffusion to plan under explicit constraints.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.08775">link</a></td>
+    <td><a href="https://jm2d-corl25.github.io/">Link</a></td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>DEQ-MPC : Deep Equilibrium Model Predictive Control</td>
+    <td>Uses deep equilibrium networks to solve MPC problems efficiently at inference time.</td>
+    <td>N/A</td>
+    <td><a href="https://openreview.net/pdf?id=Ty7xx0pn0a">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td>CUPID: Curating Data your Robot Loves with Influence Functions</td>
+    <td>Applies influence functions to select training data that most benefits robot learning.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.19121">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop</td>
+    <td>Trains perception to support action using a behavior-cloning + RL loop for active visual policies.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.10968">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td>Imagine, Verify, Execute: Memory-guided Agentic Exploration with Vision-Language Models</td>
+    <td>Uses VLMs with memory to imagine plans, verify outcomes, and execute tasks agentically.</td>
+    <td><a href="https://ive-robot.github.io/">link</a></td>
+    <td><a href="https://ive-robot.github.io/static/full_paper.pdf">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>Dynamics-Compliant Trajectory Diffusion for Super-Nominal Payload Manipulation</td>
+    <td>Generates manipulation trajectories via diffusion that respect dynamics under heavy payloads.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.21375">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td>CoRI: Communication of Robot Intent for Physical Human-Robot Interaction</td>
+    <td>Framework for communicating robot intent to improve safety and fluency in pHRI.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.20537">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td>KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning</td>
+    <td>Learns Koopman operator–based flow fields that guide smooth, divergence-free motion plans.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.09074">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td>Learning Smooth State-Dependent Traversability from Dense Point Clouds</td>
+    <td>Predicts traversability as a smooth, state-dependent function directly from dense 3D point clouds.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.04362">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td>Leveraging Correlation Across Test Platforms for Variance-Reduced Metric Estimation</td>
+    <td>Reduces evaluation variance by exploiting correlations across heterogeneous testbeds.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.20553">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td>Agreement Volatility: A Second-Order Metric for Uncertainty Quantification in Surgical Robot Learning</td>
+    <td>Introduces a second-order metric capturing volatility in model agreement to quantify uncertainty.</td>
+    <td>N/A</td>
+    <td><a href="https://openreview.net/forum?id=K7KLc4FexO#discussion">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>Sample-Efficient Online Control Policy Learning with Real-Time Recursive Model Updates</td>
+    <td>Online control learning with recursive updates to maintain real-time performance.</td>
+    <td>N/A</td>
+    <td><a href="https://www.arxiv.org/abs/2509.08241">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td>Lucid-XR: An Extended-Reality Data Engine for Robotic Manipulation</td>
+    <td>Builds an XR-based engine to synthesize diverse manipulation data at scale.</td>
+    <td>N/A</td>
+    <td><a href="https://openreview.net/pdf?id=3p7rTnLJM8">OpenReview</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td>CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset with an open-source device for Multimodal robot Perception</td>
+    <td>Collects large-scale in-the-wild haptic data using an open-source crowdsourced device.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.21495">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>43</td>
+    <td>Distributed Upload and Active Labeling for Resource-Constrained Fleet Learning</td>
+    <td>Active labeling and distributed upload strategies tailored for fleet learning under bandwidth limits.</td>
+    <td>N/A</td>
+    <td><a href="https://openreview.net/pdf/e94bfc7fafbb86a2ace178388c3d571221c3ef12.pdf">OpenReview</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td>DreamGen: Unlocking Generalization in Robot Learning through Video World Models</td>
+    <td>Uses video world models to improve generalization across robot tasks and environments.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.12705">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td>LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing</td>
+    <td>Incorporates tactile feedback for robust, dynamic quadruped transport behaviors.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.23175">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>46</td>
+    <td>TopoCut: Learning Multi-Step Cutting with Spectral Rewards and Discrete Diffusion Policies</td>
+    <td>Solves multi-step cutting via discrete diffusion guided by topology-aware rewards.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.19712">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>47</td>
+    <td>WoMAP: World Models For Embodied Open-Vocabulary Object Localization</td>
+    <td>Uses open-vocabulary world models to localize objects for embodied agents.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.01600">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>48</td>
+    <td>MirrorDuo: Reflection-Consistent Visuomotor Learning from Mirrored Demonstration Pairs</td>
+    <td>Improves visuomotor learning by enforcing reflection consistency across mirrored demos.</td>
+    <td>N/A</td>
+    <td><a href="https://openreview.net/pdf/c9df128e0cbb8f0f2d511028317205ec9c07e38c.pdf">OpenReview</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>49</td>
+    <td>First Order Model-Based RL through Decoupled Backpropagation</td>
+    <td>Enables efficient model-based RL via a first-order method with decoupled gradients.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.00215">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>CLASS: Contrastive Learning via Action Sequence Supervision for Robot Manipulation</td>
+    <td>Contrastive pretraining supervised by action sequences to enhance manipulation policies.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.01600">link</a></td>
+    <td>N/A</td>
+  </tr>
+<tr>
+    <td>51</td>
+    <td>Articulated Object Estimation in the Wild</td>
+    <td>Estimates articulation and pose of everyday objects from unconstrained, real-world data.</td>
+    <td>N/A</td>
+    <td><a href="https://www.arxiv.org/abs/2509.01708">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>52</td>
+    <td>Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning</td>
+    <td>Fuses multiple sensing/modalities to solve generalized TSP instances for robot task planning.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.16931">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>53</td>
+    <td>Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference Scoped Exploration</td>
+    <td>Unified optimization uses MoCap as soft guidance to scale dexterous manipulation control.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.09671">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>54</td>
+    <td>PrioriTouch: Adapting to User Contact Preferences for Whole-Arm Physical Human-Robot Interaction</td>
+    <td>Learns and prioritizes user-specific contact preferences for safer whole-arm pHRI.</td>
+    <td><a href="https://emprise.cs.cornell.edu/prioritouch//">link</a></td>
+    <td><a href="https://arxiv.org/abs/2509.18447">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>55</td>
+    <td>UnPose: Uncertainty-Guided Diffusion Priors for Zero-Shot Pose Estimation</td>
+    <td>Uses diffusion priors with uncertainty to enable model-free, zero-shot 6D pose estimation.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.15972">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>56</td>
+    <td>Distilling On-device Language Models for Robot Planning with Minimal Human Intervention</td>
+    <td>Distills compact LMs on-device to plan robot actions with minimal human supervision.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.17486">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>57</td>
+    <td>Mechanistic Interpretability for Steering Vision-Language-Action Models</td>
+    <td>Probes and steers VLA internals using mech-int tools to improve safety and control.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.00328">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>58</td>
+    <td>FFHFlow: Diverse and Uncertainty-Aware Dexterous Grasp Generation via Flow Variational Inference</td>
+    <td>Generates diverse, uncertainty-aware dexterous grasps using flow-based variational inference.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2407.15161">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>59</td>
+    <td>Tool-as-Interface: Learning Robot Policies from Observing Human Tool Use</td>
+    <td>Transfers tool-use knowledge from human demonstrations to robot visuomotor policies.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2504.04612">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>60</td>
+    <td>DiWA: Diffusion Policy Adaptation with World Models</td>
+    <td>Offline fine-tuning of diffusion policies using a learned world model instead of real interactions.</td>
+    <td><a href="https://diwa.cs.uni-freiburg.de/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2508.03645">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>61</td>
+    <td>Self-supervised Learning Of Visual Pose Estimation Without Pose Labels By Classifying LED States</td>
+    <td>Replaces pose labels with LED-state classification to self-supervise pose estimation.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/html/2509.10405v1">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>62</td>
+    <td>Diffusion-Guided Multi-Arm Motion Planning</td>
+    <td>Guides multi-arm planning with diffusion priors to handle high-dimensional coordination.</td>
+    <td>N/A</td>
+    <td><a href="https://www.arxiv.org/abs/2509.08160">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>63</td>
+    <td>GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering</td>
+    <td>Employs online 3D semantic scene graphs to plan, explore, and answer embodied questions.</td>
+    <td><a href="https://saumyasaxena.github.io/grapheqa/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2412.14480">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>64</td>
+    <td>Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering</td>
+    <td>Structured memory (“mind palace”) for long-term EQA with exploration–recall tradeoffs.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2507.12846">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>65</td>
+    <td>Steerable Scene Generation with Post Training and Inference-Time Search</td>
+    <td>Steers generative scene models via post-training objectives and search during inference.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.04831">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>66</td>
+    <td>RICL: Adding In-Context Adaptability to Pre-Trained Vision-Language-Action Models</td>
+    <td>Enables in-context task adaptation for pre-trained VLA models without full finetuning.</td>
+    <td><a href="https://ricl-vla.github.io/">Link</a></td>
+    <td><a href="https://arxiv.org/abs/2508.02062">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>67</td>
+    <td>ARCH: Hierarchical Hybrid Learning for Long-Horizon Contact-Rich Robotic Assembly</td>
+    <td>Hierarchical composition of parametric skills plus high-level policy for contact-rich assembly.</td>
+    <td><a href="https://long-horizon-assembly.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2409.16451">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>68</td>
+    <td>Pointing3D: A Benchmark for 3D Object Referral via Pointing Gestures</td>
+    <td>Benchmark for grounding 3D object references expressed via human pointing gestures.</td>
+    <td>N/A</td>
+    <td><a href="https://openreview.net/forum?id=h2K52fhsDU#discussion">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>69</td>
+    <td>Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation</td>
+    <td>Improves manipulation RL by merging/disentangling multi-view representations.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.04619">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>70</td>
+    <td>Learning Deployable Locomotion Control via Differentiable Simulation</td>
+    <td>Trains locomotion controllers in differentiable simulation for real-world deployment.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2404.02887">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>71</td>
+    <td>BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities</td>
+    <td>Open robot suite + algorithms for bimanual, mobile whole-body household manipulation.</td>
+    <td><a href="https://behavior-robot-suite.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2503.05652">link</a></td>
+    <td><a href="https://github.com/behavior-robot-suite/brs-algo">link</a></td>
+  </tr>
+  <tr>
+    <td>72</td>
+    <td>GraspQP: Differentiable Optimization of Force Closure for Diverse and Robust Dexterous Grasping</td>
+    <td>Differentiable force-closure QP yields diverse, stable dexterous grasps and dataset.</td>
+    <td><a href="https://graspqp.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2508.15002">link</a></td>
+    <td><a href="https://graspqp.github.io/">link</a></td>
+  </tr>
+  <tr>
+    <td>73</td>
+    <td>Adapting by Analogy: OOD Generalization of Visuomotor Policies via Functional Correspondence</td>
+    <td>Improves OOD generalization by mapping task analogies via functional correspondence.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.12678">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>74</td>
+    <td>Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps</td>
+    <td>Learns affordance frontiers from vision to plan over horizons far beyond local maps.</td>
+    <td><a href="https://personalrobotics.github.io/lrn/">link</a></td>
+    <td><a href="https://openreview.net/forum?id=JbwHcSg2ZF">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>75</td>
+    <td>Toward Real-World Cooperative and Competitive Soccer with Quadrupedal Robot Teams</td>
+    <td>Hierarchical MARL for decentralized quadruped robot soccer in real-world settings.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.13834">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>76</td>
+    <td>Multi-critic Learning for Whole-body End-effector Twist Tracking</td>
+    <td>Uses multiple critics to improve whole-body control for accurate end-effector twist tracking.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2507.08656">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>77</td>
+    <td>SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps</td>
+    <td>Registers multi-robot Gaussian splat maps using semantics without requiring initialization.</td>
+    <td><a href="https://siren-robot.github.io/">Link</a></td>
+    <td><a href="https://arxiv.org/abs/2502.06519">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>78</td>
+    <td>Rapid Mismatch Estimation via Neural Network Informed Variational Inference</td>
+    <td>Estimates model–reality mismatch quickly using VI guided by neural networks.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.21007">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>79</td>
+    <td>In-Context Iterative Policy Improvement for Dynamic Manipulation</td>
+    <td>Iteratively improves manipulation policies via in-context updates without full retraining.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.15021">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>80</td>
+    <td>Cost-aware Discovery of Contextual Failures using Bayesian Active Learning</td>
+    <td>Finds failure modes with a cost-aware Bayesian active learning strategy.</td>
+    <td>N/A</td>
+    <td><a href="https://openreview.net/forum?id=f2Y549UzM5#discussion">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>81</td>
+    <td>KDPE: A Kernel Density Estimation Strategy for Diffusion Policy Trajectory Selection</td>
+    <td>Selects better diffusion trajectories via kernel density estimation over candidates.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.10511">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>82</td>
+    <td>SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation</td>
+    <td>Benchmarks vision-language models for socially aware navigation scene understanding.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.08757">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>83</td>
+    <td>Generating Robot Constitutions &amp; Benchmarks for Semantic Safety</td>
+    <td>Creates rule “constitutions” and benchmarks to evaluate semantic safety in robots.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2503.08663">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>84</td>
+    <td>Few-Shot Neuro-Symbolic Imitation Learning for Long-Horizon Planning and Acting</td>
+    <td>Combines neuro-symbolic reasoning with few-shot imitation for long-horizon tasks.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.21501">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>85</td>
+    <td>Capability-Aware Shared Hypernetworks for Flexible Heterogeneous Multi-Robot Coordination</td>
+    <td>Uses shared hypernetworks aware of robot capabilities for heterogeneous team coordination.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2501.06058">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>86</td>
+    <td>AimBot: A Simple Auxiliary Visual Cue to Enhance Spatial Awareness of Visuomotor Policies</td>
+    <td>Adds an auxiliary visual cue to boost spatial awareness in visuomotor policies.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.08113">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>87</td>
+    <td>Beyond Constant Parameters: Hyper Prediction Models and HyperMPC</td>
+    <td>Predicts time-varying parameters via hyper models and integrates them into MPC.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.06181">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>88</td>
+    <td>FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Flow Models</td>
+    <td>Builds efficient VLF models to make generalist robot policies more accessible.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.04996">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>89</td>
+    <td>Subteaming and Adaptive Formation Control for Coordinated Multi-Robot Navigation</td>
+    <td>Dynamically forms subteams and adapts formations for coordinated navigation.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/html/2509.16412v1">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>90</td>
+    <td>Force-Modulated Visual Policy for Robot-Assisted Dressing with Arm Motions</td>
+    <td>Integrates force modulation into visual policies for safer robot-assisted dressing.</td>
+    <td>N/A</td>
+    <td><a href="https://www.arxiv.org/abs/2509.12741">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>91</td>
+    <td>ComposableNav: Instruction-Following Navigation in Dynamic Environments via Composable Diffusion</td>
+    <td>Composes diffusion skills to follow instructions for navigation in dynamic scenes.</td>
+    <td>N/A</td>
+    <td><a href="https://openreview.net/forum?id=QeP2TmCXKn">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>92</td>
+    <td>Train-Once Plan-Anywhere Kinodynamic Motion Planning via Diffusion Trees</td>
+    <td>Trains diffusion trees once to enable generalizable kinodynamic motion planning.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.21001">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>93</td>
+    <td>ZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning</td>
+    <td>Learns compact, context-aware MPC cost functions from demonstrations.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2507.13088">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>94</td>
+    <td>EndoVLA: Dual-Phase Vision-Language-Action for Precise Autonomous Tracking in Endoscopy</td>
+    <td>Two-phase VLA framework for accurate autonomous camera tracking in endoscopy.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.15206">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>95</td>
+    <td>Morphologically Symmetric Reinforcement Learning for Ambidextrous Bimanual Manipulation</td>
+    <td>Exploits morphological symmetry to learn ambidextrous bimanual manipulation skills.</td>
+    <td>N/A</td>
+    <td><a href="http://arxiv.org/abs/2505.05287">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>96</td>
+    <td>Robot Operating Home Appliances by Reading User Manuals</td>
+    <td>Extracts procedural knowledge from manuals to operate home appliances autonomously.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.20424">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>97</td>
+    <td>CARE: Enhancing Safety of Visual Navigation through Collision Avoidance via Repulsive Estimation</td>
+    <td>Improves navigation safety with a repulsive-estimation collision avoidance module.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.03834">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>98</td>
+    <td>MimicFunc: Imitating Tool Manipulation from a Single Human Video via Functional Correspondence</td>
+    <td>Imitates tool-use from a single video by aligning functional correspondences.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.13534">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>99</td>
+    <td>CogniPlan: Uncertainty-Guided Path Planning with Conditional Generative Layout Prediction</td>
+    <td>Predicts environment layouts conditionally and plans paths with uncertainty guidance.</td>
+    <td><a href="https://yizhuo-wang.com/cogniplan/">Link</a></td>
+    <td><a href="https://arxiv.org/abs/2508.03027">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>Fast Flow-based Visuomotor Policies via Conditional Optimal Transport Couplings</td>
+    <td>Trains fast visuomotor policies using conditional optimal transport–based flow couplings.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.01179">link</a></td>
+    <td>N/A</td>
+  </tr>
+  
 </table>
