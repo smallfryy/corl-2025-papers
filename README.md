@@ -1614,9 +1614,9 @@ A list of 200+ [CoRL](https://www.corl.org/) papers (orals & posters) with TLDRs
     <td>157</td>
     <td>Reflective Planning: Vision-Language Models for Multi-Stage Long-Horizon Robotic Manipulation</td>
     <td>Uses VLMs with reflection to plan multi-stage long-horizon manipulation sequences.</td>
-    <<td><a href="https://reflect-vlm.github.io/">link</a></td>
+    <td><a href="https://reflect-vlm.github.io/">link</a></td>
     <td><a href="https://arxiv.org/abs/2502.16707">link</a></td>
-    <<td><a href="https://github.com/yunhaif/reflect-vlm">link</a></td>
+    <td><a href="https://github.com/yunhaif/reflect-vlm">link</a></td>
   </tr>
   <tr>
     <td>158</td>
