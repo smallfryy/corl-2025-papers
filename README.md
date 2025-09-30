@@ -438,9 +438,9 @@ A list of 200+ [CoRL](https://www.corl.org/) papers (orals & posters) with TLDRs
     <td>10</td>
     <td>ObjectReact: Learning Object-Relative Control for Visual Navigation</td>
     <td>Learns object-relative navigation control for robust visual navigation.</td>
-    <td>[link](https://object-react.github.io/)</td>
+    <td><a href="https://object-react.github.io/">Link</a></td>
     <td><a href="https://arxiv.org/abs/2509.09594">link</a></td>
-    <td>[link](https://github.com/oravus/object-rel-nav)</td>
+    <td><a href="https://github.com/oravus/object-rel-nav">Link</a></td>
   </tr>
   <tr>
     <td>11</td>
