@@ -1762,4 +1762,372 @@ A list of 200+ [CoRL](https://www.corl.org/) papers (orals & posters) with TLDRs
     <td><a href="https://arxiv.org/abs/2502.06575">link</a></td>
     <td>N/A</td>
   </tr>
+  <tr>
+    <td>176</td>
+    <td>Learning Long-Horizon Robot Manipulation Skills via Privileged Action</td>
+    <td>Uses privileged action signals during training to acquire long-horizon manipulation skills.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2502.15442">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>177</td>
+    <td>Towards Embodiment Scaling Laws in Robot Locomotion</td>
+    <td>Empirical study of how embodiment and data scale affect locomotion policy performance.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.05753">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>178</td>
+    <td>O$^3$Afford: One-Shot 3D Object-to-Object Affordance Grounding for Generalizable Robotic Manipulation</td>
+    <td>One-shot affordance grounding between novel 3D objects to generalize manipulation skills.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/html/2509.06233v1">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>179</td>
+    <td>Estimating Value of Assistance for Online POMDP Robotic Agents</td>
+    <td>Quantifies assistance value online to decide when human help benefits a POMDP agent.</td>
+    <td>N/A</td>
+    <td><a href="https://dyalab.mines.edu/2025/icra-workshop/6.pdf">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>180</td>
+    <td>Shortcut Learning in Generalist Robot Policies: The Role of Dataset Diversity and Fragmentation</td>
+    <td>Analyzes shortcut biases and how dataset diversity/fragmentation impact generalist policies.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.06426">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>181</td>
+    <td>SDS – See it, Do it, Sorted: Quadruped Skill Synthesis from Single Video Demonstration</td>
+    <td>Derives quadruped skills from a single video demo using perception-to-action synthesis.</td>
+    <td><a href="https://rpl-cs-ucl.github.io/SDSweb/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2410.11571">link</a></td>
+    <td><a href="https://github.com/RPL-CS-UCL/SDS">link</a></td>
+  </tr>
+  <tr>
+    <td>182</td>
+    <td>TrackVLA: Embodied Visual Tracking in the Wild</td>
+    <td>Embeds tracking into VLA frameworks for robust in-the-wild target following.</td>
+    <td><a href="https://pku-epic.github.io/TrackVLA-web/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2505.23189">link</a></td>
+    <td><a href="https://github.com/wsakobe/TrackVLA">link</a></td>
+  </tr>
+  <tr>
+    <td>183</td>
+    <td>GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation</td>
+    <td>Leverages human behavior data to improve affordance learning for manipulation tasks.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.11865">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>184</td>
+    <td>LaDi-WM: A Latent Diffusion-Based World Model for Predictive Manipulation</td>
+    <td>Uses latent diffusion world models to predict future states for manipulation planning.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.11528">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>185</td>
+    <td>ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training</td>
+    <td>Trains a general manipulation policy using consistency-based flow training objectives.</td>
+    <td><a href="https://maniflow-policy.github.io/">link</a></td>
+    <td><a href="https://www.arxiv.org/abs/2509.01819">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>186</td>
+    <td>Robot Learning from Any Images</td>
+    <td>Bootstraps visuomotor skills from broad internet-scale images via clever supervision.</td>
+    <td>N/A</td>
+    <td><a href="https://www.arxiv.org/abs/2509.22970">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>187</td>
+    <td>Deep Reactive Policy: Learning Reactive Manipulator Motion Planning for Dynamic Environments</td>
+    <td>End-to-end learned reactive planner for manipulators operating in dynamic scenes.</td>
+    <td><a href="https://deep-reactive-policy.com/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2509.06953">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>188</td>
+    <td>CASPER: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models</td>
+    <td>Infers user intent distributions via VLMs to assist teleoperation effectively.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.14727">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>189</td>
+    <td>UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations</td>
+    <td>Transfers skills from human videos to robots using cross-embodiment representations.</td>
+    <td><a href="https://kimhanjung.github.io/UniSkill/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2505.08787">link</a></td>
+    <td><a href="https://github.com/KimHanjung/UniSkill">link</a></td>
+  </tr>
+  <tr>
+    <td>190</td>
+    <td>ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation</td>
+    <td>Particle-based world model on point clouds to handle multi-object, multi-material dynamics.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.23126">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>191</td>
+    <td>Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration</td>
+    <td>Bridges human-to-robot embodiment gap via sim-to-real RL seeded by one human demo.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2504.12609">link</a></td>
+    <td><a href="https://github.com/tylerlum/human2sim2robot">link</a></td>
+  </tr>
+  <tr>
+    <td>192</td>
+    <td>One Demo is Worth a Thousand Trajectories: Action-View Augmentation for Visuomotor Policies</td>
+    <td>Action-view augmentation from a single demo to train robust visuomotor policies.</td>
+    <td>N/A</td>
+    <td><a href="https://openreview.net/pdf?id=Hu3NoPMAg4">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>193</td>
+    <td>VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision</td>
+    <td>Supervises end-to-end driving policies using high-level VLM reasoning signals.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2412.14446">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>194</td>
+    <td>LLM-Guided Probabilistic Program Induction for POMDP Model Estimation</td>
+    <td>Uses LLMs to induce probabilistic programs that estimate POMDP dynamics/observations.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2505.02216">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>195</td>
+    <td>Vision in Action: Learning Active Perception from Human Demonstrations</td>
+    <td>Learns active perception strategies from human demos for better task performance.</td>
+    <td><a href="https://vision-in-action.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2506.15666">link</a></td>
+    <td><a href="https://github.com/haoyu-x/vision-in-action">link</a></td>
+  </tr>
+  <tr>
+    <td>196</td>
+    <td>Point Policy: Unifying Observations and Actions with Key Points for Robot Manipulation</td>
+    <td>Represents both observations and actions as keypoints to simplify manipulation learning.</td>
+    <td><a href="https://point-policy.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2502.20391">link</a></td>
+    <td><a href="https://github.com/siddhanthaldar/Point-Policy">link</a></td>
+  </tr>
+  <tr>
+    <td>197</td>
+    <td>From Tabula Rasa to Emergent Abilities: Discovering Robot Skills via Real-World Unsupervised Quality-Diversity</td>
+    <td>Discovers diverse real-world skills via unsupervised quality-diversity search.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.19172">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>198</td>
+    <td>Robust Dexterous Grasping of General Objects</td>
+    <td>Designs policies for robust dexterous grasping across varied, previously unseen objects.</td>
+    <td><a href="https://zdchan.github.io/Robust_DexGrasp/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2504.05287">link</a></td>
+    <td><a href="https://github.com/zdchan/RobustDexGrasp">link</a></td>
+  </tr>
+  <tr>
+    <td>199</td>
+    <td>Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids</td>
+    <td>Transfers vision-based dexterous manipulation skills onto humanoid platforms via RL.</td>
+    <td><a href="https://toruowo.github.io/recipe/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2502.20396">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>200</td>
+    <td>Humanoid Policy ~ Human Policy</td>
+    <td>Explores alignment between humanoid robot policies and human-like control strategies.</td>
+    <td><a href="https://human-as-robot.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2503.13441">link</a></td>
+    <td><a href="https://github.com/RogerQi/human-policy">link</a></td>
+  </tr>
+    <tr>
+    <td>201</td>
+    <td>ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation</td>
+    <td>Open-source humanoid platform designed for learning-based loco-manipulation research.</td>
+    <td><a href="https://toddlerbot.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2502.00893">link</a></td>
+    <td><a href="https://github.com/hshi74/toddlerbot">link</a></td>
+  </tr>
+  <tr>
+    <td>202</td>
+    <td>TWIST: Teleoperated Whole-Body Imitation System</td>
+    <td>Teleoperation framework enabling full-body imitation to collect rich humanoid data.</td>
+    <td><a href="https://yanjieze.com/TWIST/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2505.02833">link</a></td>
+    <td><a href="https://github.com/YanjieZe/TWIST">link</a></td>
+  </tr>
+  <tr>
+    <td>203</td>
+    <td>exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation</td>
+    <td>Extensible teaching system that learns task-agnostic tactile reps aware of action context.</td>
+    <td>N/A</td>
+    <td><a href="https://www.arxiv.org/abs/2509.14688">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>204</td>
+    <td>OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion</td>
+    <td>Performs LiDAR↔OSM place recognition using visibility-aware, radial fusion in BEV.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2504.19258">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>205</td>
+    <td>CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion</td>
+    <td>Introduces causal diffusion to stabilize autoregressive visuomotor policy learning.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.14769">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>206</td>
+    <td>Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids</td>
+    <td>Humanoids auto-adapt policies in the real world via self-training and evaluation loops.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.12252">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>207</td>
+    <td>See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation</td>
+    <td>Learning-free VLM pipeline that parses language/vision prompts for UAV navigation targets.</td>
+     <td><a href="https://spf-web.pages.dev/">link</a></td>
+    <td><a href="https://www.arxiv.org/abs/2509.22653">link</a></td>
+    <td><a href="https://github.com/Hu-chih-yao/see-point-fly">link</a></td>
+  </tr>
+  <tr>
+    <td>208</td>
+    <td>LaVA-Man: Learning Visual Action Representations for Robot Manipulation</td>
+    <td>Learns visual action embeddings to improve generalization in robot manipulation.</td>
+    <td>N/A</td>
+    <td><a href="https://www.arxiv.org/abs/2508.19391">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>209</td>
+    <td>3DS-VLA: A 3D Spatial-Aware Vision Language Action Model for Robust Multi-Task Manipulation</td>
+    <td>VLA model with explicit 3D spatial awareness for robust, multi-task manipulation.</td>
+    <td>N/A</td>
+    <td><a href="https://openreview.net/pdf?id=dT45OMevL5">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>210</td>
+    <td>Uncertainty-aware Accurate Elevation Modeling for Off-road Navigation via Neural Processes</td>
+    <td>Neural processes produce uncertainty-aware elevation maps for safer off-road planning.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2508.03890">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>211</td>
+    <td>Generalist Robot Manipulation beyond Action Labeled Data</td>
+    <td>Trains generalist manipulation policies without relying on explicit action labels.</td>
+     <td><a href="https://motovla.github.io/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2509.19958">link</a></td>
+    <td><a href="https://github.com/insait-institute/motovla">link</a></td>
+  </tr>
+  <tr>
+    <td>212</td>
+    <td>BranchOut: Capturing Realistic Multimodality in Autonomous Driving Decisions</td>
+    <td>Models branching, multimodal futures to better capture diverse driving decisions.</td>
+    <td>N/A</td>
+    <td><a href="https://openreview.net/pdf/8a87e7f37431a21394eac9a184d3461226abe4c7.pdf">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>213</td>
+    <td>Co-Design of Soft Gripper with Neural Physics</td>
+    <td>Jointly optimizes soft gripper design and control with differentiable neural physics.</td>
+     <td><a href="https://yswhynot.github.io/codesign-soft/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2505.20404">link</a></td>
+   <td><a href="https://github.com/yswhynot/codesign-soft-gripper">link</a></td>
+  </tr>
+  <tr>
+    <td>214</td>
+    <td>Elucidating the Design Space of Torque-aware Vision-Language-Action Models</td>
+    <td>Systematic study of torque-aware VLA design choices for manipulation performance.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.07962">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>215</td>
+    <td>RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation</td>
+    <td>Automates long-horizon chemical experiments with explicit safety constraints.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2509.08820">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>216</td>
+    <td>COLLAGE: Adaptive Fusion-based Retrieval for Augmented Policy Learning</td>
+    <td>Retrieves and fuses relevant experience adaptively to augment policy learning.</td>
+    <td><a href="https://robin-lab.cs.utexas.edu/COLLAGE/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2508.01131">link</a></td>
+    <td><a href="https://github.com/SateeshKumar21/collage-retrieval-code">link</a></td>
+  </tr>
+  <tr>
+    <td>217</td>
+    <td>GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation</td>
+    <td>Generates large-scale synthetic data to train task-oriented grasping policies.</td>
+     <td><a href="https://abhaybd.github.io/GraspMolmo/">link</a></td>
+    <td><a href="https://arxiv.org/abs/2505.13441">link</a></td>
+     <td><a href="https://github.com/abhaybd/GraspMolmo">link</a></td>
+  </tr>
+  <tr>
+    <td>218</td>
+    <td>Motion Blender Gaussian Splatting for Dynamic Reconstruction</td>
+    <td>Combines motion blending with Gaussian splats to reconstruct dynamic scenes.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2503.09040">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>219</td>
+    <td>Improving Efficiency of Sampling-based Motion Planning via Message-Passing Monte Carlo</td>
+    <td>Message-passing Monte Carlo reduces variance and improves sampling-based planning efficiency.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2410.03909">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>220</td>
+    <td>CaRL: Learning Scalable Planning Policies with Simple Rewards</td>
+    <td>Scales planning policies using simple reward structures with strong generalization.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2504.17838">link</a></td>
+    <td>N/A</td>
+  </tr>
+  <tr>
+    <td>221</td>
+    <td>Pseudo-Simulation for Autonomous Driving</td>
+    <td>Uses pseudo-simulated data to train and evaluate driving policies more efficiently.</td>
+    <td>N/A</td>
+    <td><a href="https://arxiv.org/abs/2506.04218">link</a></td>
+    <td><a href="https://github.com/autonomousvision/navsim">link</a></td>
+  </tr>
 </table>
